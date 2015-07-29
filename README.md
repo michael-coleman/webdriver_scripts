@@ -5,10 +5,11 @@ A simpler replacement to the Jasmine test framework
 
 ## Install
 
+1. Install webdriverjs using NPM: `npm install selenium-webdriver`
 1. Create folder `mikeco_packages` in root of your project dir (if it doesnt exist)
-2. keep your test code in your main project, and just require in from this lib as
+1. keep your test code in your main project, and just require in from this lib as
 needed
-3. need to clone the `webdriverjs_setup` project into `mikeco_packages` and then pull
+1. need to clone the `webdriverjs_setup` project into `mikeco_packages` and then pull
  as needed to receive updates.  
 .  
 
