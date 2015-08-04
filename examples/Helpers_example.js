@@ -1,3 +1,7 @@
+//
+// Project specific helpers go here (code thats reusable across projects
+// should be in Setup.js)
+//
 
 function Helpers() {
 	this.sleep = 3000;
