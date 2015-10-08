@@ -45,11 +45,12 @@ needed
 * add this `webdriver_setup` folder to your main projects gitignore  
 e.g.
 
-    # Main project .gitignore
-    
-    # mikeco_packages/webdriverjs_setup/ stuff 
-    mikeco_packages/webdriverjs_setup/
+```
+# Main project .gitignore
 
+# mikeco_packages/webdriverjs_setup/ stuff 
+mikeco_packages/webdriverjs_setup/
+```
 
 
 ## Usage
